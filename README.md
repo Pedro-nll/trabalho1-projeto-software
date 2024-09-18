@@ -37,7 +37,7 @@ Gerenciar Árbitros
 Como administrador do sistema, eu quero adicionar, remover ou editar informações sobre árbitros para garantir que eles estejam disponíveis para alocação nas competições.
 
 
-<img width="500px" height="700px" src="https://github.com/Pedro-nll/trabalho1-projeto-software/blob/master/imagens/CasoDeUso-Lucio_Pedro.drawio.png"/>
+<img width="500px" height="700px" src="https://github.com/Pedro-nll/trabalho1-projeto-software/blob/master/imagens/CasoDeUso-Lucio_Pedro.drawio.html"/>
 
 <img width="500px" height="700px" src="https://github.com/Pedro-nll/trabalho1-projeto-software/blob/master/imagens/DiagramaDeClasse-Lucio_Pedro.drawio.png"/>
 
