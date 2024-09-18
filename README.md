@@ -40,7 +40,7 @@ Como administrador do sistema, eu quero adicionar, remover ou editar informaçõ
 
 <img width="1600px" height="600px" src="https://github.com/Pedro-nll/trabalho1-projeto-software/blob/master/imagens/CasoDeUso-Lucio_Pedro.drawio.png" alt="Diagrama de Caso de Uso" />
 
-<img width="1600px" height="600px" src="https://github.com/Pedro-nll/trabalho1-projeto-software/blob/master/imagens/DiagramaDeClasse-Lucio_Pedro.drawio.png" alt="Diagrama de Classe" />
+<img width="1600px" height="700px" src="https://github.com/Pedro-nll/trabalho1-projeto-software/blob/master/imagens/DiagramaDeClasse-Lucio_Pedro.drawio.png" alt="Diagrama de Classe" />
 
 <img width="1600px" height="600px" src="https://github.com/Pedro-nll/trabalho1-projeto-software/blob/master/imagens/DiagramaImplantaçãoEComponentes.png" alt="Diagrama de Implantação e Componentes" />
 
